@@ -1,16 +1,16 @@
 ## Hi there, I'm Onur 👋
 
-# Introduction 
+### Introduction 
 I'm a third year CS student at UCSB working towards my B.S/M.S.
-# What I'm learning right now 🌱
+### What I'm learning right now 🌱
 I'm currently learning computational science, expanding my knowledge of object oriented design.
-# What am I looking for? 🔭
+### What am I looking for? 🔭
 I'm looking to collaborate on solutions that improve the spaces around me. I'm currently focusing on internships and research. 
-# How to reach me 📫 
+### How to reach me 📫 
 Email: oyararbas@ucsb.edu
-# Pronouns 
+### Pronouns 
 He/Him
-# Fun Fact ⛰️
+### Fun Fact ⛰️
 I love alpine mountaineering, and it's a dream of mine to climb a few mountains in my life! 
 
 
