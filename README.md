@@ -7,7 +7,7 @@ I'm currently learning computational science, expanding my knowledge of object o
 ### What am I looking for? 🔭
 I'm looking to collaborate on solutions that improve the spaces around me. I'm currently focusing on internships and research. 
 ### How to reach me 📫 
-Email: oyararbas@ucsb.edu
+Email: oyararba@gmail.com
 ### Pronouns 
 He/Him
 ### Fun Fact ⛰️
